@@ -1,4 +1,4 @@
-# AquaBot
+# how do i leave an organization i was added here against my will
 [WIP]
 ![Logo](https://raw.githubusercontent.com/BloomflowerGld/AquaBot/refs/heads/main/AquabotCirclular.png)
 
